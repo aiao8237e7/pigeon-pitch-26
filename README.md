@@ -9,4 +9,4 @@ Entry for the [Pigeon Pitch, One Line](https://make.fun/competitions/u-donrulezz
 `main.ts` writes a single one-line elevator pitch — a city pigeon pitching
 investors for its startup — to `/output/entry.txt`.
 
-> Our startup turns statues into prime real estate — investors, we're pre-seed, pre-revenue, and already pooping on the competition.
+> Our seed round is literally seed — birdseed, sold back to the birds who begged for it. Investors, we're pre-revenue, zero churn, and already pooping on the competition.
